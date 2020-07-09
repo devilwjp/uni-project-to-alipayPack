@@ -1,0 +1,5 @@
+.native-container{
+  text-align: center;
+  line-height: 300rpx;
+  font-size: 100rpx;
+}

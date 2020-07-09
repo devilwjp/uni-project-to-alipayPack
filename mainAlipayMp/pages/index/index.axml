@@ -1,0 +1,5 @@
+
+<view class="native-container">
+  原生小程序
+</view>
+<button onTap="toUni">跳转到uni-app</button>
